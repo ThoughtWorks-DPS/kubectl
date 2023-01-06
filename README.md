@@ -6,7 +6,7 @@
 	</p>
   <br />
   <h3>twdps/kubectl</h3>
-    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+    <a href="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </div>
 <br />
 
